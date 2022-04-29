@@ -18,8 +18,10 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
-![Ionic](https://img.shields.io/badge/ionic-007ACC.svg?style=for-the-badge&logo=ionic&logoColor=white)
+![Ionic](https://img.shields.io/badge/ionic-yellow.svg?style=for-the-badge&logo=ionic&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/flutter-007ACC.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![NavicatMysql](https://img.shields.io/badge/navicat_mysql-%23E34F26.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
   
   
