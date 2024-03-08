@@ -9,7 +9,7 @@
   
   ---
 
-<h3 align="left">Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 27px/> Tools  </h3>
+<h3 align="left">Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 27px/></h3>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
-![Vue](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=vue&logoColor=green)
+![Vue](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=vue&logoColor=blue)
 ![Ionic](https://img.shields.io/badge/ionic-yellow.svg?style=for-the-badge&logo=ionic&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/flutter-007ACC.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
