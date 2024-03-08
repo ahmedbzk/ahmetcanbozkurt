@@ -14,13 +14,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
+![Vue](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=vue&logoColor=green)
 ![Ionic](https://img.shields.io/badge/ionic-yellow.svg?style=for-the-badge&logo=ionic&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/flutter-007ACC.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![NavicatMysql](https://img.shields.io/badge/navicat_mysql-%23E34F26.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
   
