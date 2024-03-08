@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ahmet
-## A frontend developer from Turkey
+## Frontend developer
 
 - 📫 How to reach me **ahmedbozkurt959@gmail.com**
 
